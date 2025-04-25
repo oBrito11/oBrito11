@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🔭 I’m currently working on Havan Labs
+- 🌱 I’m currently learning C# | .Net
 
 <!--
 **oBrito11/oBrito11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
