@@ -1,5 +1,5 @@
 ## Oi, eu sou o Brito
-- 💻 Desenvolvedor Back-End
+- 💻 Analista de infraestrutura
 <div style="display: inline block"> 
   <a href="https://github.com/oBrito11">
      <img height="160" src="https://github-readme-stats.vercel.app/api?username=oBrito11&show_icons=true&theme=radical"/>
@@ -7,7 +7,11 @@
   </a>
 <div>
 <div style="display: inline block"><br>
-  <img align="center" alt="Brito C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/csharp/csharp-original.svg"
+  <img align="center" alt="Brito C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Brito C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/python/python-original.svg">
+  <img align="center" alt="Brito C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/azure/azure-original.svg">
+  <img align="center" alt="Brito C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Brito C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/googlecloud/googlecloud-original.svg">
 </div>
   
 ##
